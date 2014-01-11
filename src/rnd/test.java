@@ -30,6 +30,6 @@ public class test {
         System.out.printf("Your first gf was %s",getName());
     }
     public void gitHub(){
-        System.out.println("GitHub Repository")
+        System.out.println("GitHub Repository");
     }
 }
