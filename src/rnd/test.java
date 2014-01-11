@@ -29,10 +29,4 @@ public class test {
     public void saying(){
         System.out.printf("Your first gf was %s",getName());
     }
-    public void random() {
-        Random i = new Random();
-        int num = i.nextInt(50);
-        System.out.println("Random Number: "+num );
-    }
- 
 }

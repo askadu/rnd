@@ -23,7 +23,6 @@ public class Rnd {
         obj.saying();
         obj2.saying();
         obj.saying();
-        obj.random();
         
     }
 }
