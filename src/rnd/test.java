@@ -29,4 +29,7 @@ public class test {
     public void saying(){
         System.out.printf("Your first gf was %s",getName());
     }
+    public void gitHub(){
+        System.out.println("GitHub Repository")
+    }
 }
